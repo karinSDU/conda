@@ -12,9 +12,5 @@ dependencies:
   - bokeh
   - dask
   - networkx
-  - datatime
-  - custom
-  - csv
-  - operator
   - pandas
-  - comunity
+  - community
