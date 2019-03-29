@@ -1,9 +1,4 @@
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/https%3A%2F%2Fhub.mybinder.org%2Fuser%2Fkarinsdu-conda-53zvn9ng%2Fnotebooks%2Findex.ipynb/master
-Copy rst link to clipboard
-
-
-
+https://mybinder.org/v2/gh/karinSDU/conda/master
 
 
 
