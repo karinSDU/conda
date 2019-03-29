@@ -11,3 +11,10 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - networkx
+  - datatime
+  - custom
+  - csv
+  - operator
+  - pandas
+  - comunity
