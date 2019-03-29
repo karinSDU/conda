@@ -1,3 +1,15 @@
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/https%3A%2F%2Fhub.mybinder.org%2Fuser%2Fkarinsdu-conda-53zvn9ng%2Fnotebooks%2Findex.ipynb/master
+Copy rst link to clipboard
+
+
+
+
+
+
+
+
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/binder-examples/conda_environment/v1.0?filepath=index.ipynb)
