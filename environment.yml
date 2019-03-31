@@ -13,4 +13,3 @@ dependencies:
   - dask
   - networkx
   - pandas
-  - csv
